@@ -15,8 +15,7 @@
   -Postgres
   -Heroku
 
-## Known Bugs
-  It does not display blogs at first
+
 
 ## Licence
  
