@@ -44,7 +44,8 @@ Then: The value is added to the number of likes/comments<br>
 
 
 ### Support and contact details
-* Contact me through my email:GMANSESCO@GMAIL.COM@gmail.com
+* Contact me through my email:gmansesco@gmail.co
+* 
 * The source code is also contained within the folder containing this ReadMe with comments on the code thus third-party support can be offered.
 
 ### License
